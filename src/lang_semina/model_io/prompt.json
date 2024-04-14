@@ -1,0 +1,15 @@
+{
+    "name": null,
+    "input_variables": [
+        "group"
+    ],
+    "input_types": {},
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "{group}\uc758 \uba64\ubc84\ub294 \ub204\uac00 \uc788\uc2b5\ub2c8\uae4c \uc601\uc5b4\ub85c \uc791\uc131\ud558\uc138\uc694\uff1f",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
