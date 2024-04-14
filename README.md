@@ -1,8 +1,6 @@
 ## 🎧 langchain_RAG_study
 
 ### 💎 랭체인 완벽 입문
-
-
  <H4>🧫 Class Info </H4>
  
 - [📟 공부 자료](https://wikibook.co.kr/langchain/)
@@ -12,13 +10,6 @@
 </br>
 
 ### 💎 입문자를 위한 랭체인 기초
-[✔] 개발 환경
-| Software | Version |   
-|:---:|:---:| 
-| Python  | 3.11 |
-| LangChain | 0.1.14 |
-| OpenAI | GPT-3.5 |
-| Code IDE | Colab |
 
  <H4>🧫 Class Info </H4>
  
