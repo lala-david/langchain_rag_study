@@ -24,6 +24,6 @@ re_phrase_query_retriever = RePhraseQueryRetriever(
     retriever=retriever,  
 )
 
-documents = re_phrase_query_retriever.get_relevant_documents("나는 라면을 좋아합니다. 그런데 소주란 무엇인가요?")
+documents = re_phrase_query_retriever.get_relevant_documents("블랙홀 사건의 지평선이 뭐야?")
 
 print(documents)
